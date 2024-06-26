@@ -1,0 +1,1 @@
+VİP.EGS.COM
