@@ -297,7 +297,7 @@
                 </a>
             </div>
         </div>
-        <div class="row vip"  :class="['cat' + vip.id, 'banner' + vip.grid]">
+        <div class="row vip"  :class="['cat' + vip.id, 'banner' + vip.grid]" style="display: none">
             <div class="col" v-if="_.find(client.sites, ['site', site.site])" v-for="(site,siteKey) in _.orderBy(vip.sites, [item => parseInt(item.sort)], ['asc'])">
                 <a target="_blank"  :href="_.find(client.sites, ['site', site.site]).url" class="item" :style="'--site-color: ' + _.find(client.sites, ['site', site.site]).color">
                     <div class="left">
