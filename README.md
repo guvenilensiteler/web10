@@ -1,1 +1,1 @@
-VİP.EGS.COM
+vip.guvenlisite.com
