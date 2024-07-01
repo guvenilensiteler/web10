@@ -110,7 +110,7 @@
         "miktar": "₺250",
         "promo_code": null,
         "slider_img": ""
-      },
+      }
     ],
     "social": {
       "kick": null,
@@ -123,7 +123,7 @@
       "telegram": null,
       "instagram": null
     },
-    "cdn_url": "https://vip.guvenlisite.com/",
+    "cdn_url": "https://localhost/bet/vip.guvenlisite/",
     "is_slider": true,
     "background": null,
     "categories": [
