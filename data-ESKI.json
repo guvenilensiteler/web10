@@ -52,65 +52,29 @@
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/ggxbayspin",
+        "url": "https://bit.ly/delikenanxslot",
         "desc": [
-          "444₺ veya 300 freespin"
+          "500₺ veya 500 freespin"
         ],
-        "site": "bayspin",
+        "site": "xslot",
         "sort": null,
-        "color": "#35f02b",
-        "miktar": "₺444",
+        "color": "#2dbcb4",
+        "miktar": "₺500",
         "promo_code": null,
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/ggxbaywin",
+        "url": "https://bit.ly/delikenanbetturkey",
         "desc": [
-          "300₺ deneme bonusu"
+          "500₺ veya 500 freespin"
         ],
-        "site": "baywin",
+        "site": "betturkey",
         "sort": null,
-        "color": "#00fb87",
-        "miktar": "₺300",
+        "color": "#ffdd3a",
+        "miktar": "₺500",
         "promo_code": null,
         "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxbetine",
-        "desc": [
-          "%300 ilk yatırım bonusu"
-        ],
-        "site": "betine",
-        "sort": null,
-        "color": "#f2b601",
-        "miktar": "GİRİŞ YAP",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxbetorspin",
-        "desc": [
-          "300₺ deneme bonusu"
-        ],
-        "site": "betorspin",
-        "sort": null,
-        "color": "#ff7b31",
-        "miktar": "₺300",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxbetist",
-        "desc": [
-          "250₺ veya 250 freespin"
-        ],
-        "site": "betist",
-        "sort": null,
-        "color": "#42b16f",
-        "miktar": "₺250",
-        "promo_code": null,
-        "slider_img": ""
-      },
+      }
     ],
     "social": {
       "kick": null,
@@ -200,52 +164,28 @@
         "sort": "3",
         "sites": [
           {
-            "site": "monobahis",
+            "site": "betkom",
             "sort": "1"
           },
           {
-            "site": "caddebet",
+            "site": "tarafbet",
             "sort": "2"
           },
           {
-            "site": "klasbahis",
+            "site": "bahiscom",
             "sort": "3"
           },
           {
-            "site": "pokerklas",
+            "site": "mariobet",
             "sort": "4"
           },
           {
-            "site": "jestbahis",
+            "site": "xslot",
             "sort": "5"
           },
           {
-            "site": "xslot",
-            "sort": "6"
-          },
-          {
             "site": "betturkey",
-            "sort": "7"
-          },
-          {
-            "site": "bayspin",
-            "sort": "8"
-          },
-          {
-            "site": "baywin",
-            "sort": "9"
-          },
-          {
-            "site": "betine",
-            "sort": "10"
-          },
-          {
-            "site": "betorspin",
-            "sort": "11"
-          },
-          {
-            "site": "betist",
-            "sort": "12"
+            "sort": "6"
           }
         ]
       },
@@ -320,40 +260,48 @@
         "sort": "4",
         "sites": [
           {
-            "site": "betkom",
-            "sort": "1"
+            "site": "pusulabet",
+            "sort": "8"
           },
           {
-            "site": "tarafbet",
-            "sort": "2"
+            "site": "lgbahis",
+            "sort": "11"
           },
           {
-            "site": "bahiscom",
-            "sort": "3"
+            "site": "masterbetting",
+            "sort": "9"
           },
           {
-            "site": "mariobet",
-            "sort": "4"
+            "site": "piabet",
+            "sort": "10"
           },
           {
-            "site": "bayspin",
+            "site": "klasbahis",
             "sort": "5"
           },
           {
-            "site": "baywin",
+            "site": "monobahis",
             "sort": "6"
           },
           {
-            "site": "betine",
+            "site": "caddebet",
             "sort": "7"
           },
           {
             "site": "betorspin",
-            "sort": "8"
+            "sort": "2"
           },
           {
-            "site": "betist",
-            "sort": "9"
+            "site": "meybet",
+            "sort": "1"
+          },
+          {
+            "site": "betpipo",
+            "sort": "3"
+          },
+          {
+            "site": "betturkey",
+            "sort": "4"
           }
         ]
       },
