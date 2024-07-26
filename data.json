@@ -52,62 +52,39 @@
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/ggxbayspin",
+        "url": "https://cutt.ly/0ei03h7d",
         "desc": [
-          "444₺ veya 300 freespin"
+          "555TL DENEME BONUSU"
         ],
-        "site": "bayspin",
+        "site": "fixbet",
         "sort": null,
-        "color": "#35f02b",
-        "miktar": "₺444",
+        "color": "#adf01f",
+        "miktar": "₺555",
         "promo_code": null,
+        "promo_code_yok": "5 DAKİKADA ÇEKİM LİMİTSİZ KAZANÇ",
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/ggxbaywin",
+        "url": "https://cutt.ly/pei00y6j",
         "desc": [
-          "300₺ deneme bonusu"
+          "555TL DENEME BONUSU"
         ],
-        "site": "baywin",
+        "site": "matadorbet",
         "sort": null,
-        "color": "#00fb87",
-        "miktar": "₺300",
-        "promo_code": null,
+        "color": "#fb0009",
+        "miktar": "₺555",
+        "promo_code2": "%200 6000 TL HOSGELDİN BONUSU",
         "slider_img": ""
       },
       {
-        "url": "https://bit.ly/ggxbetine",
+        "url": "https://bit.ly/perabetgrs",
         "desc": [
-          "%300 ilk yatırım bonusu"
+          ""
         ],
-        "site": "betine",
+        "site": "perabet",
         "sort": null,
-        "color": "#f2b601",
-        "miktar": "GİRİŞ YAP",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxbetorspin",
-        "desc": [
-          "300₺ deneme bonusu"
-        ],
-        "site": "betorspin",
-        "sort": null,
-        "color": "#ff7b31",
-        "miktar": "₺300",
-        "promo_code": null,
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxbetist",
-        "desc": [
-          "250₺ veya 250 freespin"
-        ],
-        "site": "betist",
-        "sort": null,
-        "color": "#42b16f",
-        "miktar": "₺250",
+        "color": "#18cf5f",
+        "miktar": "₺333",
         "promo_code": null,
         "slider_img": ""
       }
@@ -336,24 +313,16 @@
             "sort": "4"
           },
           {
-            "site": "bayspin",
+            "site": "fixbet",
             "sort": "5"
           },
           {
-            "site": "baywin",
+            "site": "matadorbet",
             "sort": "6"
           },
           {
-            "site": "betine",
+            "site": "perabet",
             "sort": "7"
-          },
-          {
-            "site": "betorspin",
-            "sort": "8"
-          },
-          {
-            "site": "betist",
-            "sort": "9"
           }
         ]
       },
