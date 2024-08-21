@@ -4,6 +4,19 @@
     "logo": "",
     "sites": [
       {
+        "url": "https://cutt.ly/xeczedxW",
+        "desc": [
+          "777TL DENEME BONUSU"
+        ],
+        "site": "bankobet",
+        "sort": null,
+        "color": "#ff1376",
+        "miktar": "₺777",
+        "promo_code": null,
+        "promo_code_yok": "",
+        "slider_img": ""
+      },
+      {
         "url": "https://cutt.ly/keo8NToQ",
         "desc": [
           "YENİ ÜYELERE ÖZEL 600 TL DENEME BONUSU"
@@ -297,32 +310,36 @@
         "sort": "4",
         "sites": [
           {
-            "site": "betkom",
+            "site": "bankobet",
             "sort": "1"
           },
           {
-            "site": "tarafbet",
+            "site": "betkom",
             "sort": "2"
           },
           {
-            "site": "bahiscom",
+            "site": "tarafbet",
             "sort": "3"
           },
           {
-            "site": "mariobet",
+            "site": "bahiscom",
             "sort": "4"
           },
           {
-            "site": "fixbet",
+            "site": "mariobet",
             "sort": "5"
           },
           {
-            "site": "matadorbet",
+            "site": "fixbet",
             "sort": "6"
           },
           {
-            "site": "perabet",
+            "site": "matadorbet",
             "sort": "7"
+          },
+          {
+            "site": "perabet",
+            "sort": "8"
           }
         ]
       },
